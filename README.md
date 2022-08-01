@@ -21,13 +21,19 @@
 ### Socials
 
 <p align="left"> 
-<a href="http://www.instagram.com/mahdishokrollahi.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="40" /></a>
+<a href="https://www.github.com/MahdiShokrollahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
 <a href="https://linkedin.com/in/mahdi-shokrollahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi shokrollahi" height="30" width="40" /></a>
-<a href="https://www.github.com/MahdiShokrollahi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+<a href="https://instagram.com/mahdishokrollahi.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdishokrollahi.dev" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdishokrollahi&show_icons=true&locale=en&layout=compact" alt="mahdishokrollahi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdishokrollahi&show_icons=true&locale=en" alt="mahdishokrollahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdishokrollahi&" alt="mahdishokrollahi" /></p>
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.vercel.app/api?username=MahdiShokrollahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiShokrollahi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiShokrollahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MahdiShokrollahi&icon=0&color=0)](https://visitcount.itsvg.in)
